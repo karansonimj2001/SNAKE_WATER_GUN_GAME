@@ -29,8 +29,9 @@ snake-water-gun/
 
 ## Clone this repository
 
-git clone https://github.com/your-username/snake-water-gun.git
-cd snake-water-gun
+git clone https://github.com/your-username/SNAKE_WATER_GUN_GAME.git
+
+cd SNAKE_WATER_GUN_GAME
 
 
 ## Run the game
